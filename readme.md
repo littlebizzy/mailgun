@@ -1,4 +1,4 @@
-# MailGun
+# Mailgun
 
 ### Compatibility
 
